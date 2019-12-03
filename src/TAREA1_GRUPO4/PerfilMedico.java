@@ -16,6 +16,7 @@ public class PerfilMedico {
     public String nombre, apellido, sexo, mes; //declaro mis atributos con los cuales voy a trabajar.
     public int dia, año;
     double altura, peso;
+    int dia2;
 /**
  * 
  * @param nombre //primer nombre del usuario.
