@@ -19,7 +19,7 @@ public class PerfilMedico {
     int dia2, dia3;
 /**
  * 
- * @param nombre //primer nombre del usuario.
+ * @param nombre //primer nombre del usuario1231.
  * @param apellido //apellido del usuario.
  * @param sexo //sexo del usuario.
  * @param mes //mes de nacimiento del usuario.
